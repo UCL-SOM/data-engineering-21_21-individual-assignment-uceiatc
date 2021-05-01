@@ -1,0 +1,1 @@
+json == requests ==datetime ==boto3 ==pycopy-urllib.parse == 0.5.2
